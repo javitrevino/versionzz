@@ -1,8 +1,8 @@
 {
-  "_class": "group",
-  "booleanOperation": -1,
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "D7915B8B-D8A1-42A3-9225-B7B7DFF2A57E",
+  "do_objectID": "86F290D4-1067-4659-9472-337288F6ABA2",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,33 +15,27 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 20,
-    "width": 324,
-    "x": 0,
-    "y": 0
+    "height": 32,
+    "width": 125,
+    "x": 803,
+    "y": 19
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": false,
+  "isLocked": true,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
-    {
-      "class": "text",
-      "id": "CBEE291E-519C-4014-9F8F-CBE3DDB2F178"
-    }
+  "layerListExpandedType": 0,
+  "name": "Overrides/App Structure/Desktop/Header Bar/User Menu",
+  "nameIsFixed": false,
+  "overrideValues": [
   ],
-  "name": "Breadcrumbs Copy",
-  "nameIsFixed": true,
-  "resizingConstraint": 63,
+  "resizingConstraint": 60,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -69,7 +63,7 @@
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": false,
+      "isEnabled": true,
       "saturation": 1
     },
     "contextSettings": {
@@ -77,7 +71,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "84EEDCC9-5A1F-4466-A14C-87A9ABABABCC",
+    "do_objectID": "691198DA-172F-4B21-A9DF-242BD705E4AF",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -89,10 +83,27 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "E7937B72-1108-4A73-B2BC-D31AD5CCFF65",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
+        "constraints": {
+          "automatic": 1,
+          "modelID": "viewConstraints_b388760a-ef0c-41bb-92ee-75f26e56692a",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "right": {
+            "constant": 22,
+            "enabled": 1,
+            "modelID": "constraint_c3419faa-ae07-419f-b6ad-6005cf859570",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "scaleFactor": 1
+        }
       }
     }
-  }
+  },
+  "verticalSpacing": 0
 }
