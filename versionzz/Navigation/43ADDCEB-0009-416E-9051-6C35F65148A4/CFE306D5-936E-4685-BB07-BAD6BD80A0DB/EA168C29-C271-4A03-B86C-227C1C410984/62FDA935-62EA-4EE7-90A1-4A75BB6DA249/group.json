@@ -1,8 +1,8 @@
 {
-  "_class": "page",
-  "booleanOperation": 0,
+  "_class": "group",
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "cddfe000-d271-11ea-b01f-1be26edd71ea",
+  "do_objectID": "62FDA935-62EA-4EE7-90A1-4A75BB6DA249",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,37 +15,34 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
+    "height": 21,
+    "width": 46,
+    "x": 91,
     "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -333,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "43ADDCEB-0009-416E-9051-6C35F65148A4"
+      "class": "rectangle",
+      "id": "35B35D03-0351-447A-845D-D14A4976ED2F"
+    },
+    {
+      "class": "text",
+      "id": "70AA61E9-728E-4275-A289-C9BF7FF7F60E"
     }
   ],
-  "name": "Navigation",
-  "nameIsFixed": true,
+  "name": "Group 6 Copy",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -76,7 +73,7 @@
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": false,
+      "isEnabled": true,
       "saturation": 1
     },
     "contextSettings": {
@@ -84,7 +81,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "353DE960-6DC0-41A1-81A4-E9E76ABCA81C",
+    "do_objectID": "33236110-88E9-4BC7-84D0-5AB6E76F0F94",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -96,10 +93,10 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -265,
-    "guides": [
-    ]
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   }
 }
