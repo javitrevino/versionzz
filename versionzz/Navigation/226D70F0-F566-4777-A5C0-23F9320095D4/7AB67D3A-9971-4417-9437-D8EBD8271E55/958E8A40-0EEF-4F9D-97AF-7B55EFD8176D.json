@@ -1,8 +1,8 @@
 {
-  "_class": "page",
+  "_class": "symbolInstance",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "cddfe000-d271-11ea-b01f-1be26edd71ea",
+  "do_objectID": "958E8A40-0EEF-4F9D-97AF-7B55EFD8176D",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,40 +15,27 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "height": 32,
+    "width": 125,
+    "x": 803,
+    "y": 19
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -333,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": false,
+  "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "group",
-      "id": "226D70F0-F566-4777-A5C0-23F9320095D4"
-    }
+  "name": "Overrides/App Structure/Desktop/Header Bar/User Menu",
+  "nameIsFixed": false,
+  "overrideValues": [
   ],
-  "name": "Navigation",
-  "nameIsFixed": true,
-  "resizingConstraint": 63,
+  "resizingConstraint": 60,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -76,7 +63,7 @@
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": false,
+      "isEnabled": true,
       "saturation": 1
     },
     "contextSettings": {
@@ -84,7 +71,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "353DE960-6DC0-41A1-81A4-E9E76ABCA81C",
+    "do_objectID": "C2E6A7AC-7E3E-4A73-90DB-07B7978CF639",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -96,10 +83,27 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -265,
-    "guides": [
-    ]
-  }
+  "symbolID": "E7937B72-1108-4A73-B2BC-D31AD5CCFF65",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "automatic": 1,
+          "modelID": "viewConstraints_b388760a-ef0c-41bb-92ee-75f26e56692a",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "right": {
+            "constant": 22,
+            "enabled": 1,
+            "modelID": "constraint_c3419faa-ae07-419f-b6ad-6005cf859570",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "verticalSpacing": 0
 }
