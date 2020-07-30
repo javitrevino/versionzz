@@ -1,8 +1,8 @@
 {
-  "_class": "group",
-  "booleanOperation": -1,
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "EEDAC848-1B00-4E16-8F18-2D008F650B69",
+  "do_objectID": "958E8A40-0EEF-4F9D-97AF-7B55EFD8176D",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,37 +15,27 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 21,
-    "width": 50,
-    "x": 282,
-    "y": 0
+    "height": 32,
+    "width": 125,
+    "x": 803,
+    "y": 19
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": false,
+  "isLocked": true,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
-    {
-      "class": "rectangle",
-      "id": "1BA161FB-83DA-4D0D-B3AC-080F3EB2397A"
-    },
-    {
-      "class": "text",
-      "id": "8BF9B35E-4891-48E2-8E21-D4C74A9D514D"
-    }
-  ],
-  "name": "Group 6 Copy 3",
+  "layerListExpandedType": 0,
+  "name": "Overrides/App Structure/Desktop/Header Bar/User Menu",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 60,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -81,7 +71,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "FCF51012-63DF-409C-A4F5-1E7A544E515A",
+    "do_objectID": "C2E6A7AC-7E3E-4A73-90DB-07B7978CF639",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -93,10 +83,27 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "E7937B72-1108-4A73-B2BC-D31AD5CCFF65",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
+        "constraints": {
+          "automatic": 1,
+          "modelID": "viewConstraints_b388760a-ef0c-41bb-92ee-75f26e56692a",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "right": {
+            "constant": 22,
+            "enabled": 1,
+            "modelID": "constraint_c3419faa-ae07-419f-b6ad-6005cf859570",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "scaleFactor": 1
+        }
       }
     }
-  }
+  },
+  "verticalSpacing": 0
 }

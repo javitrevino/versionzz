@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.1882352941176471,
-            "green": 0.1450980392156863,
-            "red": 0.1098039215686274
+            "blue": 0.1882352941,
+            "green": 0.1450980392,
+            "red": 0.1098039216
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -31,13 +31,13 @@
             "_class": "paragraphStyle",
             "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 24,
-            "minimumLineHeight": 24,
+            "maximumLineHeight": 20,
+            "minimumLineHeight": 20,
             "tighteningFactorForTruncation": 0.05
           },
           "strokeWidth": 0
         },
-        "length": 13,
+        "length": 12,
         "location": 0
       },
       {
@@ -46,9 +46,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.1882352941176471,
-            "green": 0.1450980392156863,
-            "red": 0.1098039215686274
+            "blue": 0.1882352941,
+            "green": 0.1450980392,
+            "red": 0.1098039216
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -68,14 +68,88 @@
             "_class": "paragraphStyle",
             "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 24,
-            "minimumLineHeight": 24,
+            "maximumLineHeight": 20,
+            "minimumLineHeight": 20,
             "tighteningFactorForTruncation": 0.05
           },
           "strokeWidth": 0
         },
-        "length": 25,
+        "length": 1,
+        "location": 12
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.1882352941,
+            "green": 0.1450980392,
+            "red": 0.1098039216
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "SourceSansPro-Black",
+              "size": 18
+            }
+          },
+          "MSAttributedStringStrokeColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.1490196078,
+            "green": 0.1490196078,
+            "red": 0.1490196078
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 20,
+            "minimumLineHeight": 20,
+            "tighteningFactorForTruncation": 0.05
+          },
+          "strokeWidth": 0
+        },
+        "length": 1,
         "location": 13
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.1882352941,
+            "green": 0.1450980392,
+            "red": 0.1098039216
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "SourceSansPro-Semibold",
+              "size": 18
+            }
+          },
+          "MSAttributedStringStrokeColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.1490196078,
+            "green": 0.1490196078,
+            "red": 0.1490196078
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 20,
+            "minimumLineHeight": 20,
+            "tighteningFactorForTruncation": 0.05
+          },
+          "strokeWidth": 0
+        },
+        "length": 24,
+        "location": 14
       }
     ],
     "string": "Active Forms / Weekend Connection Form"
@@ -83,7 +157,7 @@
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "C1748D79-E18A-46F3-AF41-9A18589A0A2C",
+  "do_objectID": "CBEE291E-519C-4014-9F8F-CBE3DDB2F178",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -106,12 +180,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
+    "height": 20,
     "width": 324,
-    "x": 22,
+    "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{-1, 5}, {324, 16}}",
+  "glyphBounds": "{{-1, 3}, {324, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -120,12 +194,12 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Active Forms / Weeke",
-  "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "name": "Children Titles Copy 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 11,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "ACFA7878-B9F1-4949-9F8E-4E34A1916664",
+  "sharedStyleID": "EB03BB07-5D93-44DE-AD5C-9EC3F7412AB4",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -161,7 +235,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "2357F804-BF64-4928-AA32-0076870C6AA6",
+    "do_objectID": "55866D85-8ABB-4E83-89D4-7EF86BF36A4D",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -177,9 +251,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.1882352941176471,
-          "green": 0.1450980392156863,
-          "red": 0.1098039215686274
+          "blue": 0.1882352941,
+          "green": 0.1450980392,
+          "red": 0.1098039216
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -199,8 +273,8 @@
           "_class": "paragraphStyle",
           "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 24,
-          "minimumLineHeight": 24,
+          "maximumLineHeight": 20,
+          "minimumLineHeight": 20,
           "tighteningFactorForTruncation": 0.05
         },
         "strokeWidth": 0

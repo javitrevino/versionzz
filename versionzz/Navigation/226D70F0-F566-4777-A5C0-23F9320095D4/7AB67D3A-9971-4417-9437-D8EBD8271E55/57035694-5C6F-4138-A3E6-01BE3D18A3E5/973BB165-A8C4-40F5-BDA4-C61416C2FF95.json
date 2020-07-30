@@ -2,7 +2,7 @@
   "_class": "shapePath",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "03D5F6EE-A5C1-4A51-B271-1DF5D3BAB89D",
+  "do_objectID": "973BB165-A8C4-40F5-BDA4-C61416C2FF95",
   "edited": true,
   "exportOptions": {
     "_class": "exportOptions",
@@ -202,7 +202,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "80CE1FA8-EA72-4CC2-B6E2-5787A4A7FF14",
+    "do_objectID": "6660EF4E-0FC9-4FB6-8277-2795DD8EDC27",
     "endMarkerType": 0,
     "fills": [
       {
@@ -273,13 +273,13 @@
           "aspectRatio": {
             "constant": 10,
             "enabled": 1,
-            "modelID": "constraint_e8f35767-3193-4ef6-bba6-199ae1bab9ba",
+            "modelID": "constraint_5388901c-f969-4fec-bbbf-269ff578ceb7",
             "model_class": "ADModelConstraint",
             "model_version": 0.1,
             "multiplier": 5
           },
           "automatic": 1,
-          "modelID": "viewConstraints_ffb67077-e9d7-499f-bd62-2f4d1fb7ff4b",
+          "modelID": "viewConstraints_a5a50419-0b6d-4933-9a8e-15d63f00f730",
           "model_class": "ADModelViewConstraints",
           "model_version": 0.1,
           "scaleFactor": 1
